@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">set6NgMingZheRSD3G5</string>
+    <string-array name="banks">
+        <item>Hong Leong Auto Loan</item>
+        <item>Maybank Hire Purchase</item>
+        <item>Public Bank Aitab Hire Purchase-i</item>
+    </string-array>
+</resources>
